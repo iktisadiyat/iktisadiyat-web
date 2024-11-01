@@ -1,36 +1,34 @@
-import * as React from "react"
-import { Link } from "gatsby"
+// src/components/layout.js
+import * as React from "react";
+import { Link } from "gatsby";
+import Menu from "./Menu";
+import '../styles/layout.css'; // Import the merged layout CSS
 
-const Layout = ({ location, title, children }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  const isRootPath = location.pathname === rootPath
-  let header
-
-  if (isRootPath) {
-    header = (
-      <h1 className="main-heading">
-        <Link to="/">{title}</Link>
-      </h1>
-    )
-  } else {
-    header = (
-      <Link className="header-link-home" to="/">
-        {title}
-      </Link>
-    )
-  }
-
+const Layout = ({ location, children }) => {
   return (
-    <div className="global-wrapper" data-is-root-path={isRootPath}>
-      <header className="global-header">{header}</header>
-      <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
-      </footer>
-    </div>
-  )
-}
+    <div>
+      {/* Site title at the top */}
+      <header className="global-header">
+        <h1 className="site-name">
+          <Link to="/">İktisadiyat</Link>
+        </h1>
+      </header>
 
-export default Layout
+      {/* Fixed full-width menu */}
+      <div className="menu-wrapper">
+        <Menu />
+      </div>
+
+      {/* Main content wrapped in .global-wrapper for width constraint */}
+      <div className="global-wrapper">
+        <main>{children}</main>
+        <footer>
+          © {new Date().getFullYear()}, Built with
+          <a href="https://www.gatsbyjs.com"> Gatsby</a>
+        </footer>
+      </div>
+    </div>
+  );
+};
+
+export default Layout;
