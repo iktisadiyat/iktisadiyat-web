@@ -3,7 +3,7 @@ author: fatih_vural
 categories:
 - Kategorisiz
 date: '2020-08-24'
-title: 'Küba Notları: İnanmak İstediğimiz Yalanlar (Küba'da Sağlık)'
+title: "Küba Notları: İnanmak İstediğimiz Yalanlar (Küba'da Sağlık)"
 ---
 > Küba’da sağlık hizmeti alımında eşitlik olduğu doğru mudur?
 
