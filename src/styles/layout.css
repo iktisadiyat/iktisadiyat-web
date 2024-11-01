@@ -33,7 +33,7 @@
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   z-index: 10; /* Ensure it stays above the content */
-  padding: 10px 0;
+  padding: 2px 0;
   box-sizing: border-box;
 }
 
@@ -55,7 +55,7 @@
   color: #333;
   font-weight: 500; /* Adjust weight as needed */
   text-decoration: none;
-  font-size: 2rem; /* Increase the font size */
+  font-size: 1.3rem; /* Increase the font size */
   font-family: 'Montserrat', sans-serif; /* Apply custom font */
   position: relative;
 }
