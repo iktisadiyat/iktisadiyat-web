@@ -1,0 +1,14 @@
+---
+author: ekrem_cunedioglu
+categories:
+- Serbest Atış
+date: '2010-07-01'
+title: Üniversite Tavlama Kılavuzu
+---
+
+[![üniversite tavlama kılavuzu](../../../../../uploads/2010/07/%C3%BCniversite-tavlama-k%C4%B1lavuzu.jpg)](https://iktisadiyat.com/2010/07/01/universite-tavlama-kilavuzu/universite-tavlama-kilavuzu-2/)  
+Ben niyet mektubuna karşıyım arkadaş! Varlığına ya da gereksinim duyulma nedenine değil, ama yazılış şekline karşıyım.  
+Neye niyet ediyorsun? Akademik bir kuruma öğrenci olarak kabul edilmeye. Ne güzel! Peki, yaptığın ne? Kendini anlatan bir yazı kaleme almak, neden beni almalısınız formatında. Beni zıvanadan çıkaran husus da tam bu işte… Gece âlemine birilerini (t)avlamak için çıkmış adamların yaptığı gibi allanıp pullanır öyle çıkarız (t)avlanacak olanın karşısına. Hem fiziksel hem de ruhsal bir allanıp pullanmadır bu. Yani o, âlemlere dalan adam gerçek olandan farklıdır. Zaten gece ilişkilerinin kısa ömürlü olmasının nedeni de bu özden sapma değil midir? Uyandığınızda gecekinden farklı biriyle sabahlarsınız, ama aslında güne merhaba dediğindir gerçek olan. Neyse bu benzetmeyi fazla uzatmadan ana konuya döneyim. Niyet mektupları tek okumayla yazan hakkında kanaate varılan yapılarıyla tek gecelik gönül uğraşlarına benziyorlar. Okuyacak olanı (t)avlamak için allan pullan…  
+  
+Niyet mektuplarının iki diğer özelliği de ego ve proustmak(mübalağa derecesinde övgüde bulunmak). En güzel niyet mektubunu en egosantrik adam yazar! Adam dediğin de tevazu olmalı diye öğrettiler bize, sen bırak kendini övmeyi de âlem seni övsün dedi atalar. Oysa bizden beklenen alenen övmek kendimizi: Bana öyle anlat ki kendini, seni kabul edeyim. Tam bu noktada pazarlamacıdır her akademik kariyer yolcusu. Diğer nokta olan proustmaya gelelim. Kendini övmen yetmiyor kurumlara, bir de onları yere göğe sığdıramamak var yapmanı bekledikleri. Kendi egon nirvanada ya onları da çekeceksin beraberinde. Hem kurumu hem de çalışmak istediğin hocayı… Bir övgü bir övgü… “Ben gözümü açtığımda ilk sizin logonuzu gördüm”, “Annem adımı çalışmak istediğim profesörün adı koyacakmış da babam izin vermemiş, dedemin adına koymuş”, “Gerçek bilim sizde yaşıyor” gibisinden aslı astarı olmayan cümlelerle dolu mektuplar.  
+Benim daha iyi bir alternatif önerim yok, ama durumdan hoşnut değilim. Aslında sadece niyet mektubuna değil tüm öğrenci seçim sürecine karşıyım, ama bu hoşnutsuzluğu sonraki yazılarda dile getireyim. Mektup dediğin bir bilim insanı adayınca yazılıyorsa özgün olmalı, pozitif olmalı ama gerektiğinde normatif de olmalı. Öyle internet ortamında hazır kalıpları olan ve boşlukları aday öğrencilerce doldurulan mektup, mektup değildir; bunu yazan öğrencide de bilim adamlığından zerre nasiplenmişlik yoktur. Belki sert oldu biraz, ama aşırı bir hoşnutsuzluğun neticesi.

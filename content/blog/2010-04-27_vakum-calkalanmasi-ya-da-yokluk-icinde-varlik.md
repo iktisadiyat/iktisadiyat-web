@@ -1,0 +1,39 @@
+---
+author: tolga_bagci
+categories:
+- Kuantum Fiziği ve Felsefesi
+date: '2010-04-27'
+title: Vakum Çalkalanması ya da Yokluk İçinde Varlık
+---
+
+![](http://www-users.rwth-aachen.de/klaus.klingmueller/pmwiki/uploads/Main/casimir-effect.jpg)
+
+\[1\]
+
+“Yalnız varolan vardır ve ancak bu düşünülebilir: Varolmayan yoktur ve düşünülemez de” **(Parmenides)**
+
+“Bağlanışlar; bütünler ve bütün olmayanlar, birarada duran ve ayrı duran, birlikte söylenen ve ayrı söylenen. Her şeyden bir, bir’den her şey.” **(Herakleitos)**
+
+“Sözcüğün sağın anlamında olgusal olan bir saltık plenumdur (doluluk); ama plenum bir değildir. Tersine, onlardan sonsuz bir sayıda vardır, ve oylumlarının küçüklüğünden ötürü görülemezdirler (atomlardan bahsediyor).Boşlukta devinirler (çünkü boşluk vardır); ve biraraya gelerek varlığa gelişi ortaya çıkarırlar; ayrılarak, yitip gitmeyi.” **(Leukkippos)**
+
+Vakum(Boşluk) gerçekten var mıdır ? Varsa neye benzer? İçinde hiçbir özdeği barındırmayan üzerine ne söyleyebiliriz? Şeyin, Şeyden doğması bizi ad infinituma götürür ; o zaman Şey, vakumdan doğmalıdır. Ama içinde hiçbir Şey olmayandan, Şey nasıl doğar? Kuşkusuz bu rahatsız edici sorular Antik Yunan’dan beri filozofları meşgul etti. Boş uzay kavramını kimi filozoflar sevimsiz bulurken, kimileri onu zorunlu gördü. Elea okulunun büyük filozofu Parmenides, tümüyle usçu bir bakış açısıyla konuyu ele aldı. Ancak uyguladığı mantık, analitik A=A özdeşlik ilkesine dayanıyordu. Yani birşey ancak kendisidir ve Varlık saltık olarak Varlık , Yokluk da saltık olarak Yokluktur. O zaman Yokluk ya da Boşluk üzerine konuşamayız bile. Çünkü zaten yalnızca Varolan Vardır, Yok olan da pekala Yoktur. Ve ancak Varolan düşünülebilir. Varlık bölünemezdir, yalnızca Birdir ve kesinlikle karşıtını dışlar. Oluş ve Devinim tümüyle yanıltıcıdır. Parmenides’in öğrencisi Zenon, hocasının argümanlarını kendi adıyla anılan paradokslarla güçlendirmeye çalıştı. Bu analitik uslamlamalar sonucu, Çokluğu, Devinimi, Boş uzayı, Oluşu çelişkili olarak gördü ve dolayısıyla hepsini yadsıdı. Öte yandan, Herakleitos ise Diyalektik Düşüncenin tohumlarını attı. Ona göre herşey karşıtların birliğiydi ve dolayısıyla Yokluk ve Varlık, Oluş’ta, Yitiş’te Bir oluyordu. Gerçek, aslında Logos’un emrinde olan bir Değişim ve Çelişkiydi. Boşluğu keskin anlamda ilk kullananlar Atomcular, yani Leukkipos ve Demokritos oldu. Leukkippos, özdeğin tözünü, dolu olan atomlar olarak imgelemişti ve bu atomların devinebilmesi için Boşluğa gereksinim duydu. Dolayısıyla Boşluğa aslında bir işlevsellik yükledi; bu anlamda onu atomla birlikte, özdeksel dünyanın olanaklılığı için koşul olarak gördü. O zaman Boşluk ya da Yokluk da en az Atom kadar Vardı ve Edimseldi \[2\].  
+![](http://upload.wikimedia.org/wikipedia/commons/e/ed/Parmenides.jpg)  
+Modern Dünyada , Boşluk üzerine bir tartışma Boş görünebilir; hele bu kadar can sıkıcı ve “anlaşılmaz” bir meseleye **Parmenides** gibi salt usla bakıp, Devinimi, Oluşu , Görüngüyü yanılgı olarak nitelendirmek, kimilerine gülünç ya da felsefi bir gevezelik olarak gelebilir. Giderek Fizikçi de bu tür bir tartışmayı gereksiz görme sanrısına kapılabilir. Materyalizm ve Ampirizm , Fizikçinin Usu alaya alması için gerekli entellektüel materyali kolaylıkla temin eder . Ancak salt Mantığın, Usun, görünürde böyle zor meseleler ve çelişkiler karşısında çabucak yıkıldığından ve felsefe tarihinin böyle yanılgılarla dolu olduğundan cesaret alıp Usu yadsıyanları, kendi dogmatizmleriyle başbaşa bırakmalıyız. Gerçekte tıpkı diğer Herşey gibi, Vakum da anlaşılabilir olandır. Doğa’da gizeme yer yoktur.
+
+Bunun için Nesnel Mantığa, Kavramın kendisini açındırmasına odaklanmalıyız. **Hegel** , Parmenides’in analitik mantığında ısrar etmedi ve bunun yerine karşıtların birliği ilkesini çıkarsama için gerekli gördü. Wissenschaft der Logik’te(Mantık Bilimi) ortaya koyduğu temel düşünce şuydu; Varlık için A diyelim, Yokluk için de B. Analitik Mantığa göre A yalnızca kendisine eşittir tıpkı B gibi, o zaman A=A ve B=B’dir, ve A, B’nin saltık karşıtı olsun. Ama bu durumda A’dan B’ye geçişi nasıl açıklarız ? Çünkü A , B’ye ait hiçbirşeyi barındırmaz, onun saltık olumsuzudur. O zaman ya yalnızca Varlık’tan ya da yalnızca Yokluk’tan bahsedebilliriz. Parmenides bu mantıkta takıldı ve doğal olarak Yokluğu yadsımak zorunda kaldı. Hegel’in Diyalektik Mantığında ise A yalnızca A’yı değil, aynı zamanda onun karşıtı olan B’yi de örtük olarak kapsar, onu içerir. A’dan B’yi çıkarsamak ancak bu zeminde olanaklıdır. Hegel önceden de bilinen Diyalektiği formüle etti ve ilkin Varlık ve Yokluğun nasıl aynı şey olduklarını mantıksal olarak tanıtladı (bkz Mantık Bilimi). Bunu yaparken Kavrama dışsal hiçbir şey eklemedi. Ve Kavram böylece karşıtıyla hem özdeş olma hem de ayrı olma kıpısını içsel olarak taşıyordu. Bu ise açıkça Çelişkidir ve çelişkide durağanlık olmaz, öyleyse Oluş zorunlu olarak belirir. Varlık ve Yokluğun Birliği ve birbirine geçmişliği ve çelişkinin çözümü olarak Oluş \[3\].
+
+![](http://upload.wikimedia.org/wikipedia/commons/9/97/Hegel.jpg)
+
+**Aslında , Diyalektik Düşüncenin kökleri Hegel’den çok daha öncelere dayanır. Hegel’in büyüklüğü bu eşsiz fikri sağlam bir dizgeye oturtarak , ussal felsefeye , kuramsal düşünceye hakettiği zaferi bahşetmesinde yatar. Usun çelişkiler karşısında yıkıldığı görüşünü savunan irrasyonelizm heveslilerine, bundan korkmanın anlamsız olduğunu, çünkü çelişkinin, oluşun ve çıkarsamanın biricik İÇSEL olanağı olduğunu MANTIKSAL yöntemle hatırlattı. Modern Fiziği olması gerektiği gibi felsefi düşünce içinde anlamak istiyorsak, ultra-hassas deney aletlerinin yanında, Hegel’in Nesnel Mantığın kavranabilirliğine olan inancının bir benzerine de sahip olmamız gerekir.**
+
+![](http://blogs.discovery.com/.a/6a00d8341bf67c53ef0120a846b716970b-320wi)
+
+Fiziğin deneysel bir bilim olduğu üzerinde sıklıkla durulur ve genel anlamda fizikte rasyonel düşüncenin tehlikeli olduğu kanısı hakimdir. Deneye elbette güvenmemiz gerekir, ancak Usu yadsımak , onda tehlike görmek tümüyle gereksiz bir saplantıdır. Vakumun aslında saltık olarak Boşluk olmadığı bugün kuramsal fiziğin de savlarından biridir. Kuantum Alan Kuramına göre Vakumun sıfır olmayan bir enerjisi vardır. Bu enerji denizinde , parçacık-karşı parçacık çiftleri çok hızlı bir şekilde üretilip, birbirlerini yine kısa süre içinde yokedene kadar yaşarlar. Bunlara “virtual(sanal)” parçacıklar ismi verilmiştir. Ve bu olgu “**Vakum Çalkalanması** “ olarak adlandırılır. Bu sanal parçacıkların varlıkları ve çevreleriyle etkileşimleri deneysel olarak saptanmıştır. Willis Lamb, Hidrojen atomu içersindeki elektronun vakum çalkalanmasıyla etkileşimi sonucu oluşan enerji kaymasını hassas bir şekilde ölçmüştür (Lamb shift). Diğer taraftan iki Hollandalı fizikçi Casimir ve Polder, iki yüksüz metal plakanın birbirine çok yaklaştırıldığında, aradaki vakumun çalkalanması sonucu oluşan kuvveti ölçerek vakum etkisini gözlemlemişlerdir(Casimir Force). Boşluğu saltık boşluk olarak görme yanılgısında takılıp kalan deneyci-analitik mantık için Deneyi anlamak giderek olanaksızlaşmıştır. Örneğin mantıksal pozitivistler, bu çaresizlikleriyle tutarlılık içinde, Deneyin, rasgele duyumsal veriden öte bir imlem taşımadığı dogmasında sonuna kadar diretmelidirler . Ama gerçekte Deneyin vargısı , Ustan bağımsız olamaz. Eğer öyle olsaydı anlatım verdiği şeyin tümü ya da bütün bir Bilim Tarihi şizofrenik bir masaldan daha iyisi olmazdı. Fizikte deneysel veri değerlidir, çünkü Yasanın izini taşır. Bunu anlamak ilkin kolay değildir. Usun kendini eğitmesi, çelişkiyle barışık olması gerekir.
+
+Kaynakça:
+
+\[1\] (Kasimir Kuvveti) [Phys.Rev.Lett.96:220401,2006](http://arxiv.org/pdf/quant-ph/0601094).
+
+\[2\] [http://www.ideayayinevi.com/felsefe\_tarihi/felsefe\_tarihi\_anasayfa.htm](http://www.ideayayinevi.com/felsefe_tarihi/felsefe_tarihi_anasayfa.htm)
+
+\[3\] *Wissenschaft der Logik (Mantık Bilimi) ,* Hegel. İdea Yayınevi, Ocak 2009, çvr. Aziz Yardımlı.

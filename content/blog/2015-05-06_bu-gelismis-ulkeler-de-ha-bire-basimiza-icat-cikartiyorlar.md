@@ -1,0 +1,24 @@
+---
+author: idil_bilgic
+categories:
+- Teknoloji ve Yenilik İktisadı
+- Türkiye Ekonomisi
+- Uluslararası Rekabet
+date: '2015-05-06'
+title: Bu Gelişmiş Ülkeler de, Ha Bire Başımıza İcat Çıkartıyorlar!
+---
+
+Aslında bu yazı, ileri teknolojinin hayatımızı nasıl değiştirebileceğine dair, Jetgiller kıvamında ve eğlenceli bir değerlendirme olacaktı. Ancak yazıya başladıktan sonra fark ettim ki, böyle bir değerlendirme küresel inovasyon ortamına dair bir değerlendirme olmaksızın pek çok okuyucu için havada kalacak. Eğlenceli fütürizm başka yazıya kalsın, bugün rakamlarla konuşalım.  
+“Yenilikçiliğin ve teknolojik gelişimin kaynağı ABD ve kalkınmış ülkeler” diye boşuna söylenmiyor. Açıkçası, icat çıkartmakta üstlerine yok. 2013 ve öncesinde, ABD Patent ve Marka Ofisi’nden alınan toplamı 5,5 milyon teknoloji patentinin %56’sını ABD’li şirketler almış. Geriye kalan %44’ün dağılımı da, yenilikçiliğin ve icat çıkarma meselesinin bir kaç ülkenin tekelinde olduğuna işaret ediyor. Japonya, ABD’deki patentlerin %17’sini, Almanya %7’sini almış. Yani, üç ülke, alınan her beş patentten dördünün sahibi (Şekil 1).
+
+**Şekil 1:** ABD Patent ve Marka Ofisi’nden Alınan Patentlerin Coğrafi Dağılımı (2013’e Dek Alınan Toplam Patentler)
+
+</figure>  
+Küresel yenilikçilik ekosistemini değerlendirebilmek için, ABD dışındaki patent ofislerinde durumun nasıl olduğuna da bakmak gerekli. Dünyanın en büyük 5 patent ofisi tarafından kurulmuş “IP-5 Cooperation” \[1\] verilerine göre de durum pek farklı değil; ülkelerin sıralaması değişse de, sonuçlar benzer. 2013 yılında Avrupa Patent Ofisi’nden alınan yaklaşık 67 bin patentin 15 binini ABD, 13 binini Almanya, 12 binini Japonya almış. Aralarında Fransa, Çin ve Kore’nin de bulunduğu ilk 10 ülke toplam 67 bin patentin, 58 binine sahip. Japonya Patent Ofisi verileri de benzer bir tabloya işaret ediyor. 277 bin patentin 223 bini Japon firmaları tarafından alınmış. Hemen ardından 21 bin patent ile ABD, 7 bin patent ile Almanya ve 5 bin patent ile Güney Kore geliyor. Kore patent ofisindeki 127 bin patentin 96 bini Koreli firmalara, 14 bini Japon firmalar, 9 bini ABD’li firmalar ve 3 bini Alman firmalara ait. Ne yazık ki, Çin patent ofisinden gelen verilerde yabancı ülkelerin detaylı bir ayrımı yok, tek bildiğimiz 208 bin patentin 144 bininin Çinli firmalar tarafından alındığı. Ancak ABD, Almanya, Japonya ve Kore’nin bu listede de üst sıralarda olacağını tahmin etmek zor değil.  
+Peki, tüm bu rakamlar ne gösteriyor? En büyük 5 patent ofisinde, 2013 yılında toplam 957 bin patent alınmış. Bunların ezici çoğunluğunu ise ABD’li, Alman, Japon ve Koreli firmalar almış. İkincisi, ABD’deki patentlerin sektörel dağılımı, tüm alanlara etki edecek sektörlerde patentleme işleminin daha yoğun olduğunu gösteriyor. Yani, disiplinler-arası yaklaşım firmalar ve piyasa tarafından benimsenmiş, yatay alanlara yapılan yatırım daha çok ilgi çekiyor. Üçüncüsü, teknolojik yenilik uzun soluklu bir çaba gerektiriyor. Bugün yapılan yatırım, ancak birkaç yıl sonra ticarileşiyor. Diğer yandan bunu göze alan firmalar, küresel ölçekteki krizlerde bile yenilikçilik unvanlarını kaybetmeden yola devam edebiliyorlar.  
+Son bir not: Ülkelerin ABD’den aldıkları patent sayıları ile milli gelirlerini birlikte değerlendirmek için kurulan basit bir ekonometrik denklem \[2\], Türkiye ile aynı ekonomik büyüklüğe sahip hipotetik bir ülkenin ABD Patent ve Marka Ofisi’nden 1995-2013 yılları arasında 7 binden fazla patent almış olması gerektiğine işaret ediyor \[3\]. Oysa Türkiye, yeterince patent alamayan 147 ülke ile birlikte ‘diğer’ kategorisi içerisinde değerlendirilmekte. Görünen o ki, küresel ekonomik sıralamada yükselmeyi hedefleyen Türkiye’nin, yenilikçilik ve globalleşme alanlarında kat etmesi gereken daha çok mesafe var.  
+**Kaynaklar**  
+**\[1\]** IP5 Co-operation, Avrupa, Japonya, Kore, Cin ve ABD patent ofisleri arasinda kurulmus bir isbirligi agi. Bu sayede dunyadaki patentleme calismalari arasindaki koordinasyonun artirilmasi ve daha verimli kilinmasi hedefleniyor. http://www.fiveipoffices.org/index.html  
+**\[2\]** Ülkelerin ABD Patent ve Marka Ofisi’nden aldıkları toplam patentleri, ülkelerin dolar cinsinden nominal milli gelirleri ile ilişkilendiren bir doğrusal denklem kurulmuştur. Denklemin açıklama gücü (R2) %74 olarak bulunmuştur.  
+**\[3\]** 1995-2013 döneminin seçilmiş olması, Türk Patent Enstitüsü tarafından istatistiklerin 1995 yılından itibaren açıklanmasıdır. Bu dönemde Türkiye’de toplam 92.990 patent alınmıştır. Bunların 64.615 tanesini ise yabancılar almıştır. http://www.tpe.gov.tr/TurkPatentEnstitusu/statistics/  
+**\[4\]** İlk Görsel: www.ingredientsnetwork.com

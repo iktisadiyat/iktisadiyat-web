@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `İktisadiyat`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `İktisadiyat`,
+      summary: `İktisadiyat ekibi tarafından hazırlanan ekonomi blogu.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `İktisadiyat ekibi tarafından hazırlanan ekonomi blogu.`,
+    siteUrl: `https://www.iktisadiyat.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `twitter.com/iktisadiyat`,
     },
   },
   plugins: [
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "İktisadiyat RSS",
           },
         ],
       },

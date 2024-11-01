@@ -1,0 +1,39 @@
+---
+author: ekrem_cunedioglu
+categories:
+- Iktisat Teorisi
+date: '2010-10-18'
+title: Ücret Belirleyenlerine Teorik Yaklaşımlar 1
+---
+
+<!-- [![ücret belirleyenleri](../../../../../uploads/2010/10/%C3%BCcret-belirleyenleri.jpg)](https://iktisadiyat.com/2010/10/18/ucret-belirleyenlerine-teorik-yaklasimlar-1/ucret-belirleyenleri/)   -->
+Bu yazıda ücret belirleyenleri konusundaki teorik çalışmalar incelenip bu alandaki literatürün hızlı gelişimi gözler önüne serilmektedir. Ücret belirleyenleri alanındaki temel çalışma beşeri sermaye teorisidir(Human Capital Theory). Teorik olarak en önemli katkılar başta Jacob Mincer(1957, 1958, 1962) olmak üzere, Theodore Schultz(1960, 1961) ve Gary Becker(1962, 1964) tarafından yapılmıştır. Çalışmada ilk olarak Adam Smith’in Ulusların Zenginliği 1. Kitap’ta açıklamış olduğu ve alandaki ilk çalışmalardan olan “equalizing differences” kavramına değinecek, ardından Mincer’in eğitim ve iş deneyimi değişkenlerini açıklayıcı olarak kullandığı, alanın temel modelini ele alacağız. Bu iki teorik yaklaşıma ek olarak Homojen Beşeri Sermaye Modelleri, Heterojen Beşeri Sermaye Modelleri, Fırsat ve Yetenek Eşitsizliği Modelleri alt başlıkları altında, alana önemli katkılar sağlamış birkaç teorik yaklaşımdan daha bahsedilecektir.  
+  
+**1. ADAM SMITH ve “EQUALIZING DIFFERENCES”**  
+Friedman ve Kuznets(1945)’in profesyoneller arasındaki ücret farklılıklarını açıklamada kullandığı ve Mincer’in kazanç fonksiyonun da temellerinde yer alan “equalizing differences” kavramına Adam Smith, Ulusların Zenginliği Kitap 1’de değinmiştir. Smith, çalışanlara verilen ücretlerin iş ya da çalışma koşullarından kaynaklanan farklılıkları eşitleyecek şekilde eşitleneceğini öne sürmektedir. Farklılıklar, işin niteliğinden kaynaklanan maddi olmayan konfor (İngilizce olan “amenity” kelimesi tam karşılığı olmasa da bu yazıda konfor olarak çevrilmiştir) ya da konforsuzlukla açıklanmaktadır. Teoriye göre aynı yetenekleri gerektiren iki işten daha konforsuz olanın konforlu olana göre daha yüksek ücret ödemesi gerekmektedir, aksi takdirde kimse bu işte çalışmak istemeyecektir.  
+Equalizing differences teorisi bir uzun dönem eşitliği teorisidir. Kısa dönemde çalışanlar iş değiştirecek hareketliliğe sahip değillerdir, ama uzun dönemde emek arzı daha esnektir ve bu nedenle kısa dönem ücret primlerinin eşitliği sağlayacak kadar yüksek olmasını beklemeyiz. Teorinin işlemesi için gerekli varsayımlardan biri işçiler ve işverenler arasında simetrik ve tam bilginin olması gerektiğidir. Örneğin, eğer işçiler çalıştıkları yerde zehirli gaz salınımı olduğundan bihaberlerse böyle bir iş için ücret primi ödemeye gerek kalmayacaktır. Oysa işçiler bu konforsuzluk konusunda bilgi sahibi olsalardı böyle bir işin daha yüksek ücret talep edeceklerdir.  
+Konfor kavramının diğer önemli bir özelliği de göreceli olmasıdır. Bir işin konfor ya da konforsuzluğu konusunda bireyler farklı yargılarda bulunabilirler. Bu farklılık arz eğrisinin şeklini değiştirmektedir. Arz eğrisi emek arz edenlerin görüşlerindeki farklılıklara göre hem düz hem de pozitif eğimli kısımlar ihtiva edecektir. Bu teoriyi destekleyen ampirik bir çalışmada yaş, deneyim, akademik performans ve okul kalitesi gibi diğer değişkenlerden doğan farklılıklar kontrol edildiğinde kamu avukatlarının geleneksel avukatlara göre %20 daha düşük ortalama ücretle çalıştıkları tespit edilmiştir. Kamu avukatlarının uğraştıkları davalar Smith’in tanımına göre daha konforludur ve daha az risk teşkil etmektedir. Bu nedenle daha konforlu olan işin daha az ücret vermesi öngörülmektedir.  
+**2. JACOB MINCER’IN BEŞERİ SERMAYE KAZANÇ FONKSİYONU**  
+Genel olarak kazanç fonksiyonu terimi, bireylerin ücret oranlarının ya da gelirlerinin, ücreti etkilediği düşünülen bireysel, piyasa ya da çevresel bazı değişken vektörleriyle regresyonudur. Kazanç fonksiyonları, belirtmiş olduğum değişkenlerden genel olarak beşeri sermayeye yatırımı ifade eden eğitim görülen süre, iş üzerinde eğitim süresi(on the job training) gibi değişkenlerle ilgilense de bazı çalışmalarda ücret farklılıklarını sağlayan daha farklı değişkenler de kullanılmıştır.  
+Mincer, kazanç fonksiyonunda açıklayıcı değişkenler olarak eğitim kurumlarında geçirilen yıl sayısı(schooling) ve deneyim(experince) değişkenlerini kullanmıştır. Mincer tipi kazanç fonksiyonlarını genel olarak şu formda ifade edilebilir:  
+\[pmath size=10\]Lny\_{i} = f (s\_{i}, x\_{i}, z\_{i}) + u\_{i} i = 1,2,…,n\[/pmath\] Denklem2.1  
+Bu eşitlikte \[pmath size=10\]Lny\_{i}\[/pmath\] i. bireyin ücret ya da kazancının doğal logaritması, \[pmath size=10\]s\_{i}\[/pmath\] eğitime katılımı ölçen değişken, \[pmath size=10\]x\_{i}\[/pmath\] deneyim miktarı, \[pmath size=10\]z\_{i}\[/pmath\] ırk, cinsiyet, bireyin yaşadığı coğrafi bölge gibi diğer açıklayıcı değişkenler ve \[pmath size=10\]u\_{i}\[/pmath\] model tarafından açıklanamayan hata terimlerini ifade etmektedir. 2.1 eşitliği genel olarak istatistikî kazanç fonksiyonu olarak adlandırılmaktadır.  
+Mincer, 1974’de yayınladığı ekonometrik çalışmasında tüm eğitimlerin genel olduğu örtük varsayımı altında birden fazla regresyonun sonucunu rapor etmiştir. İlk olarak log gelirlerin eğitim alınan süre ile basit en küçük kareler regresyonunu almıştır.  
+\[pmath size=10\]LnY = 7,58 + 0,070s R^2 = 0,067\[/pmath\] Denklem 2.2  
+(43,8)  
+Parantez içindeki değer t-istatistiğidir. Tahmin edilmiş eğitim yılı değişkeni gelirde eğitim görünen yıl başına %7’lik bir artış sağlamaktadır ve sonuç yüksek derecede anlamlıdır. Fakat gelirdeki değişimin ancak %6,7’lik bir kısmı eğitim yılı değişkeni ile açıklanabilmiştir ki bu da oldukça düşüktür.  
+2.2 eşitliğine açıklayıcı değişken olarak deneyim yılı değişkeni \[pmath size=10\]X\[/pmath\] ve bu değişkenin karesi \[pmath size=10\]X^2\[/pmath\] eklendiğinde regresyonun bağımlı değişkeni açıklama gücü %6,7’den %28,5’e çıkmaktadır. Mincer, okula başlama yaşını 6 olarak kabul etmiştir ve bu nedenle eğitimi bitirme yaşı \[pmath size=10\]s + 6\[/pmath\] olacaktır. Dolayısıyla t yaşındaki bireyin deneyim miktarı \[pmath size=10\]X = t – s – 6\[/pmath\] şeklinde ifade edilebilir. İkinci regresyonun çıktısı ise şöyledir:  
+\[pmath size=10\]LnY = 6,20 + 0,107s + 0,081X – 0,0012X^2 R^2 = 0,285\[/pmath\] Denklem 2.3  
+(72,3) (75,5) (-55,8)  
+Bu modelde eğitim yılı değişkeninin getirisi %10,7’ye yükselmiştir ve deneyim miktarının getirisi pozitif olmakla birlikte getiri deneyim miktarına göre azalarak artmaktadır.  
+Üçüncü modelin tahminleri eğitim yılı ve deneyim değişkenlerinin ilişkilerini yorumlamaya izin vermektedir. Bu modelde eğitim yılı getirisinin azalan olduğunu göstermek için modele bir \[pmath size=10\]s^2\[/pmath\] değişkeni de eklenmiştir.  
+\[pmath size=10\]LnY = 4,87 + 0,255s – 0,0029s^2 – 0,0043sX + 0,148X – 0,0018X^2 R^2 = 0,309\[/pmath\] Denklem 2.4  
+(2,34) (-7,1) (-31,8) (63,7) (-66,2)  
+Eğitim yılı değişkeninin log gelire katkısını görmek için aşağıdaki eşitliğe bakalım:  
+\[pmath size=10\]dlnY/ds = 0,255 – 0,0058s – 0,0043X\[/pmath\] Denklem 2.5  
+Görüleceği gibi katkı hem s hem de X’e bağlıdır ve s’e göre azalan getiri söz konusudur. Özel olarak X=8 alınırsa 8 yıllık eğitim için eğitimin marjinal getirisi %17,4 iken 12 yıllık eğitim için %15,1 ve 16 yıllık eğitim için %12,8 olacaktır.  
+Farklı eğitim yılı seviyelerinde deneyimin log gelire marjinal katkısını hesaplama için bu kez türevi X’e göre alalım.  
+\[pmath size=10\]dlnY/dX = 0,148 – 0,0043s – 0,0036X\[/pmath\] Denklem 2.6  
+Görüldüğü üzere deneyime göre getiri hem eğiti yılı hem de deneyim miktarıyla azalmaktadır. Optimal deneyim miktarı için 2.6 eşitliğini sıfıra eşitler ve bulduğumuz sonucu 2.3 denkleminde yerine koyar ve yeni eşitliği X için çözersek,  
+\[pmath size=10\]hat{X} = (0,148 – 0,0043s)/(0,0036)\[/pmath\] Denklem 2.7  
+farklı s değerleri için en uygun X değerlerini buluruz.

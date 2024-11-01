@@ -1,0 +1,22 @@
+---
+author: omer_karaduman
+categories:
+- İktisat Teorisi
+- Kalkınma İktisadı
+date: '2016-04-11'
+title: Nereye Yapacağız?
+---
+
+**Hello World**  
+Merhabalar [iktisadiyat.com](http://www.iktisadiyat.com), tanışacağımıza memnum oluyorum. Severek okuduğum bu oluşumun parçası olmak benim için önemli bir gurur. Umarım var olan dergi kültürünü ve yazı kalitesini bir miktar tutturabilirim. Bir dostum, yarı akademik makalelerin amacı kafa karıştırmak ve insanları okumaya teşvik etmek olduğunu söylemişti. Sanırım benim bu platformdaki yazılarımdaki ana gayem de bu olacak. Her iktisatçı gibi çok kalın harflerle yazılan büyük büyük soruları alıp, öyle de olur böyle de olur cevabını çokça vereceğimi düşünüyorum, bakalım. Umarım okuyanların hayatından sonuç itibariyle 10 dakika çalmış olmam.  
+Geçen gün (Yazıyı yazmakta geciktiğim için geçen gün geçen ay oldu^) bir internet sitesinde gördüğüm [“Ali Sabancı’nın ‘ek gelir’ hayalleri: Uçakta tuvalet paralı olabilir”](http://haber.sol.org.tr/turkiye/ali-sabancinin-ek-gelir-hayalleri-ucakta-tuvalet-parali-olabilir-142861) haberi beni şu genel soruyu sormaya itti: “Bir ürünü parçalara ayırıp ayrı fiyatlama ‘unbundling’ tüketiciye zarar verir mi?”. Bu örnek üzerinden iktisatta çokça yaptığımız karşı olgusal (counterfactual) egzersizlerden olan tüketici refahı hesaplamalarından bahsetmek istiyorum. Uzun lafın kısası neden bu adamın belki de kötü bir insan olmadığını anlatacağım(Onu çağrı merkezine 5 lira verdikten sonra anlat Ömer diyeceksiniz, haklısınız eşekten düşmeyen bilemez.).  
+**Her Uçakta Yaşanan Hikaye**  
+Uçağa bindiniz. Kemerler bağlandı. Uçak hafiften hareketlendi. Sabah uçağa gelmeden içtiğiniz kahve sisteminizdeki döngüsünü tamamladı ve şimdi olay yerini terk etmek istiyor. 10 dakika sabır, uçak kalksın hallederiz dediniz. Uçak kalktı, kemer ikaz ışıkları söndü. Ani refleksle iki arka sırada gördüğünüz, tuvalete gideceği daha uçağa biner binmez belli olan, emekli öğretmen Eşref Bey’den önce kalkmayı başardınız ve yarım metrekarelik kurtuluşunuzun önünde durdunuz. Fakat o da ne, tuvaletin önündeki görevli sizden biletinizi istiyor. Biletinize tuvalet dahil değilmiş, ama nakit olarak 15 lira öderseniz kullanabilirmişsiniz. Usulca geri adım attığınız kapının önüne gururla gelen Eşref Bey paşalar gibi tuvaleti kullanırken siz koltuğuna geri dönüp o 15 lirayla binebileceğiniz HAVAŞ’ı düşünüyorsunuz.  
+</figure>  
+Rekabetin yeterince iyi olduğu ve Rekabet Kurumu tarafından yeterince denetlendiğini düşünüyorsak, “Bir ürünü parçalara ayırıp ayrı fiyatlama ‘unbundling’ tüketicilerin bir kısmı için kötü olsa da (resimdeki temsili vatandaş gibi), hem hali hazırda ürünün bir kısmı için boşu boşuna para veren (tuvalete gitmeyen siz) hem de biletlerin ucuzlamasıyla uçabilecek insanlar için iyi bir durum teşkil ediyor. Peki nereye kadar kardeşim yarın öbür ayakta götürecekler bizi diyebilirsiniz. Bu nedenle Rekabet Kurumu’nun düzgün çalışmasını bir ön gerektirme olarak sundum.  
+**\*** İlgili bir örnek: Lunaparklarda yaygın olan bu fiyat farklılaştırmasından para kazanabileceğim fikri ilk kez 95 yılında Vatan Caddesi’ndeki lunaparkta aklıma gelmişti. Uygulamaya 2002 yılında Feshane’deki lunaparkta geçtim. Sonuç olarak o gün 11 lira kazandım, ve günün sonunda Eyüp Camii’ne kadar biletçiden kaçtım.  
+**\*\*** Bu soru 2 boyutlu ürün fiyatlaması örneği. Fakat aslında bu soru bana kalırsa üçüncü derece fiyatlaması ile çözümlenebilir. Bana kalırsa kısa süreli uçuşlarda insanlar tuvalet kullanmak isteyenler ve istemeyenler diye iki gruba ayrılabilecek kadar toplulaşmış durumda. Uzun yolculuklar içinse bence herkes aynı gruba mensup.  
+**\*\*\*** Rekabet altında fiyatlamanın etkisi bir çok yöne gidebilir, fakat bir üretici marketinden ayrılan tüketici diğer tuvaletin fiyatlanmadığı diğer bir üreticinin marketine geçebilir. Bu durumda toplam refah yine değişmez.  
+**\*\*\*\*** Eskiden hostes olmak için gerçekten güzellik yarışmasında yarışma şartı olduğu bilgisini sektörü bilen eski bir çalışanla yaptığım muhabbet sırasında öğrendim, yalan olma ihtimali çok yüksek.  
+**İlk Görsel:** Yepyeni bir oyun olan ¨CEO’s Hunt¨ adlı fps formatındaki oyundan yaylı tüfeğiyle Ali Sabancı karakteri  
+**^ Editörün Notu:** *Yazı, yayımından 35 gün önce iletilmiş ancak gündem sebebiyle bir süre ertelenerek sitedeki yerini almıştır. Bu gecikmeden dolayı yazarımızdan ve okuyucularımızdan özür dileriz.*

@@ -1,0 +1,31 @@
+---
+author: idil_bilgic
+categories:
+- Türkiye Ekonomisi
+- Uluslararası İktisat
+date: '2015-01-04'
+title: 8760 km Uzakta Kurulu Japon Emeklilik Fonunun Türkiye İle Ne İlgisi Olabilir?
+---
+
+</figure>
+
+Fonun varlıklarının yeniden yapılandırılması kapsamında, Japonya devlet tahvillerinin toplam varlıklar içindeki ağırlığı yüzde 60’tan yüzde 35’e indirilirken, yerli firmalara ait hisse senetlerinin payı ise yüzde 12’den yüzde 25’e çıkartılacak. Ancak değişiklikler bunlarla sınırlı değil. Yabancı hisse senetlerinin toplam varlıklar içerisindeki payı yüzde 12’den yüzde 25’e çıkartılırken, yabancı devlet tahvillerinin payı ise yüzde 11’den yüzde 15’e çıkartılacak \[6\].
+
+Japon devlet tahvillerinin azaltılmasından elde edilen paranın yerli ve yabancı şirket hisselerine ve yabancı devlet tahvillerine yatırılması, piyasalarda ciddi bir etki yaratma potansiyeli taşıyor. Çünkü verilen değişiklik oranlarına göre, değişiklik sonrası fon tarafından yabancı devlet tahvillerine ve yabancı şirket hisselerine yapılacak yatırımlar sırasıyla 48 milyar dolar ve 156 milyar dolar artabilir. Diğer yandan, fonun şirket hisselerine yapacağı yatırımdan pay almak çok da kolay değil. Zira fon bu amaçla özkaynak getirisine bağı çeşitli endeksler kullanacak. Yani, karlılığı yüksek ve tabii ki sürdürülebilir şirketler aranıyor.  
+Peki, tüm bunların Türkiye için neden önemi olabilir? Her şeyden önce, yaşadığımız devirde bir ülkede olan o ülkede kalmıyor. Gelişmiş ülkelerdeki fazla fonlar, gelişmekte olan ülke piyasalarını doğrudan etkiliyor. 2013 yılı boyunca küresel piyasalarda bozulan Türkiye algısı, Mart 2014 cumhurbaşkanlığı seçimlerinden bu yana tersine dönmüş durumda. Nisan 2014 başından beri, yabancıların tuttukları devlet tahvillerinde yüzde 15 ve hisse senetlerinde yüzde 30 civarında artış gözlendi. Her ne kadar ayni ligde olduğumuz pek çok gelişmekte olan ülkeye göre kredi riskimiz yüksek olsa da, ekonomideki yapısal güçlülükler ve piyasa büyüklüğü, Türkiye’yi yabancı yatırımcı için hala çekici kılıyor. 2014 başında 350 baz puana kadar çıkan Türkiye’nin EMBI makas değeri, şu anda 230 puan civarında. Yani ABD doları cinsinden devlet kâğıtları için Türkiye, ABD’ye göre yüzde 2,3 daha yüksek faiz ödüyor. Dolayısıyla, bir yandan daha yüksek getiri hedefleyen ama diğer yandan da göreli güvence arayan Japon fonları için Türk devlet tahvilleri bir seçenek olabilirmiş gibi görünüyor. Aynı şeyi, küresel rekabet altında zorlanan şirketler kesimi için detaylı bir analiz yapmadan söylemek zor. Buna rağmen, en azından tahvillere yönelik talep oluşması için gereken şartlar mevcut gibi.
+
+Diğer yandan işin bir de arz tarafı var. Türkiye yurtdışından borç alan bir ülke. Cari açık düşme eğilimde olsa da, Türkiye’nin 2014 sonundaki cari açığının yüzde 5,7-5,9 aralığında olacağı öngörülüyor. Cari açığın büyüklüğü önemli olsa da, daha önemli olan finansmanın nasıl yapıldığı. Cari açık dediğiniz, ödemeler dengesindeki ana kalemlerden birinin verdiği açık aslında. Çift giriş prensibine göre, cari açık negatifse, sermaye ve finans hesapları toplamının pozitif olması gerekiyor. Yani, ülkenize sermaye ve finans yatırımı çekmeniz gerekiyor. Sermaye ve finans kalemi altına farklı türde işlemler kaydediliyor. Hem uzun dönemli yatırımları ifade eden doğrudan yabancı yatırımlar ve uzun vadeli tahvil işlemleri, hem de kısa vadeli bono işlemleri ile daha oynak olan portföy yatırımları sermaye ve finans hesabına kaydediliyor.
+
+Merkez Bankası ödemeler dengesi istatistiklerine göre, Türkiye’de cari açığın yaklaşık yüzde 80’i doğrudan yabancı yatırımlar dışındaki fon akımları ile sağlanıyor. Yani ürettiğimizden daha fazla tükettiğimiz için oluşan cari açığın büyük kısmını, dışarıdan gelen ve herhangi bir fiziki yatırıma bağlı olmadığı için elde tutulması daha zor olan fonlarla kapatıyoruz. Dolayısıyla, yabancı fon kaynaklarını ve yatırımcıların portföy seçimlerini anlamak bizim için önemli. Emeklilik fonları genelde portföy şirketlerinden daha yavaş alım satım yapan, devlet tahvillerini portföylerinde bolca tutan ve girdikleri piyasada daha uzun süre kalan nitelikte olduklarından, bu tür fonların yatırım havuzunda devlet tahvilleri ile yer alabilmek bizim için önemli. Tahviller yabancı yatırımcının parasını bir seneden daha uzun vadelerle bağladığı için, bunların piyasaya sürülmesi tahvili ihraç eden ülke için ani çıkış riskini önleyen kısmi bir güvence niteliğinde.
+
+Japonya Emeklilik Yatırım Fonu’nun yapısındaki olası değişiklik sonrası, Türkiye bu pastadan özellikle devlet tahvilleri piyasasında fayda sağlayabilir ve cari açığın finansmanının sürdürülebilirliğine katkı sağlanabilir. Küresel piyasada etkisi olacak bu tür değişiklikleri takip etmek, açık ekonomilerin hâkim olduğu günümüz dünyasında çok önemli. Umarım zaman içerisinde, ilk bakışta önemsiz görünen bu tür gelişmelerin irdelendiği ve rakamlarla anlatıldığı yazıların sayısı artar ve memleketteki ekonomik tartışmaların zemini sağlamlaşır.  
+Bitirmeden önce, yeni yayın döneminin ilk yazısının sahibi olarak tüm okuyucularımıza da hoş geldiniz diyorum. Kesintisiz, bol içerikli bir yayın döneminde görüşmek üzere…
+
+İdil Bilgiç Alpaslan  
+**Notlar**  
+\[1\] Dünya Bankası Kalkınma Göstergeleri  
+\[2\] Government Pension Investment Fund, http://www.gpif.go.jp/en/  
+\[3\] Fon ile ilgili değişiklik tartışmaları uzun zamandır surmesine ragmen, açık tartışmalar ve hazırlık raporunun tanıtımı 2014 Ağustos’ta yapılıyor. http://www.bloomberg.com/video/seminar-gpif-reform-and-future-of-japan-s-economy-mic\_Oy8ARQ~Q~rgPU1n3EA.html adresinden, Eylul 2014’te bu fondan da sorumlu olan bakanliga atanan Yasuhisa Shiozaki’nin olasi degisiklikler hakkindaki yaklasimini izleyebilirsiniz. Tartisma uslubu, takinilan tavir ve yaklasim ise rahatlikla baska bir yazinin konusu olabilir.  
+\[4\] Statistics Bureau of Japan, http://www.stat.go.jp/english/data/roudou/results/month/index.htm . Rakamlar 2014 Ekim ayina aittir.  
+\[5\] Dunya Bankasi Kalkinma Gostergeleri  
+\[6\] http://www.kitco.com/news/2014-10-31/FOCUS-GPIF-reform-likely-to-support-stock-market-in-long-run.html
