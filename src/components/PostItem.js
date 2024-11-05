@@ -5,6 +5,7 @@ import { Link } from 'gatsby';
 const PostItem = ({ post }) => {
   const title = post.frontmatter.title || post.fields.slug;
   const formattedDate = new Date(post.frontmatter.date).toLocaleDateString('en-GB');
+  
   const { thumbnail, author, categories } = post.frontmatter;
 
   return (
@@ -18,19 +19,17 @@ const PostItem = ({ post }) => {
                   <span itemProp="headline">{title}</span>
                 </Link>
               </h2>
-              <small>{formattedDate}</small>
-              {author && (
-                <p className="post-meta">
-                  By {author}
-                </p>
-              )}
-              {categories && categories.length > 0 && (
-                <p className="post-meta">
-                  Categories: {categories.join(', ')}
-                </p>
-              )}
+               <div className="post-meta-inline">
+            <span> 
+            <span> <strong>Tarih:</strong> {formattedDate}</span> | <strong>Yazar:</strong> {author || 'Bilinmiyor'}</span> |
+            {categories && categories.length > 0 ? (
+              <span><strong> Kategoriler:</strong> {categories.join(', ')}</span>
+            ) : (
+              <span><strong> Kategoriler:</strong> Yok</span>
+            )}
+          </div>
             </header>
-            <section>
+            <section class="post-meta-text">
               <p>
                 {post.excerpt}
                 <Link to={post.fields.slug} className="read-more-link">

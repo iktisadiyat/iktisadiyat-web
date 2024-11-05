@@ -4,6 +4,7 @@ categories:
 - Felsefe
 date: '2020-03-20'
 title: Mikro Faşizan Arzunun Rasyonalist Felsefeyle Sağaltımı
+thumbnail: https://picsum.photos/id/240/200/200
 ---
 
 Dünya siyaseti, aşırı sağın yeni mevziler kazanmasıyla birlikte, pre-faşist evre hipotezlerini doğrular nitelikte bir devinim izliyor. Bu usdışı vaziyetin bütünsel olarak algılanması, karşı mücadelenin kuramsal, kavramsal ve pratik yapısının oluşturulması, ancak meşruiyetini rasyonalist felsefeden alan enternasyonalist bir politik bilincin işi olabilir. Devir, bu sürecin uzlaşmacı, pasifist öğretilere bırakılamayacak kadar varoluşsal ciddiyette olduğunu göstermekte. Nazi kalıntısı siyasetçilerin giderek cesaret ve destek topladığı pre-faşizan dönemde, rasyonalist irade, Jakobenizm’in keskin kılıcına sarılarak gardını almalıdır.  

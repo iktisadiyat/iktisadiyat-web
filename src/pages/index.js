@@ -40,7 +40,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
-        excerpt(pruneLength: 600)
+        excerpt(pruneLength: 400)
         fields {
           slug
         }

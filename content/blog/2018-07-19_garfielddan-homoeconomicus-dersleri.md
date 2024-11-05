@@ -4,6 +4,7 @@ categories:
 - Iktisat Teorisi
 date: '2018-07-19'
 title: Garfield’dan Homoeconomicus Dersleri
+thumbnail: https://picsum.photos/id/40/200/200
 ---
 
 ‘’Düsturum şudur; *Ben, Ben, Önce Ben, Evet oldukça bencil sayılırım*‘’ diyerek söze başlar obur kedimiz bir macerasını anlatırken. Lazanya yemekten ve televizyon izlemekten hoşlanırken, sahibine ve meşhur ev arkadaşı Odie’ye olan sevgisini de hep gizler. Bu özelliklerine en zeki olduğunu iddia etmeyi de ekler. Tabi biz bunlara mama yiyebilme amacına ulaşmak için evde yaşayan ve zımni olarak anlaştıkları fareyi yakalamış numarası yaptığından cingözlüğünü de ekliyoruz. Dahası, ‘’elektrik yok, konfor yok, fırın yok, televizyon yok’’ mızmızlıklarını da fısıldamalıyız.  

@@ -4,6 +4,7 @@ categories:
 - İktisat Öğencilerine Tavsiyeler
 date: '2018-01-02'
 title: '2017’den Sorular Ve Belki Ba(ğ)zı Cevaplar: Soru sormadan önce bir bakın derim!'
+thumbnail: https://picsum.photos/id/74/200/200
 ---
 
 Sevgili İktisadiyat okurları, bir süredir yoktum. Muhtemelen bir süre daha da olmayacağım. Hazır fırsatını bulmuşken bir şeyler söyleyerek sizlerle hasbihal edeyim dedim. Fırsat da bu ya e-posta adreslerimizde karışıklık olmuş, 2017’nin tüm e-postaları “reklam” olarak işaretlenenlerle birlikte gözden kaçmış. Neyse ki tüm e-postaları kontrol ederken hepsine ulaştık, içlerinden de bazılarını seçip sizlerle paylaşmak istedik.  

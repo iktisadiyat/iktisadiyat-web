@@ -3,7 +3,8 @@ author: abdullah_onur_aktas
 categories:
 - Felsefe
 date: '2018-07-31'
-title: Homo Normalis’in* Kategorileri
+title: Homo Normalis’in Kategorileri
+thumbnail: https://picsum.photos/id/255/200/200
 ---
 
 **Kavramlar ve Kategoriler**  

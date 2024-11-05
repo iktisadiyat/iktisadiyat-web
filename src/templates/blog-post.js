@@ -9,7 +9,8 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`;
-
+  const formattedDate = new Date(post.frontmatter.date).toLocaleDateString('en-GB');
+  
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -19,7 +20,7 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{formattedDate}</p>
           
           {/* Display author and categories */}
           <div className="post-meta">

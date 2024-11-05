@@ -7,6 +7,7 @@ categories:
 - İktisatçılar
 date: '2018-05-11'
 title: Düzeni Sıfırlarken… (II)
+thumbnail: https://picsum.photos/id/32/200/200
 ---
 
 Şimdi meseleyi biraz somutlaştıralım. Yazının [birinci bölümü](http://www.iktisadiyat.com/2018/02/13/duzeni-sifirlarken-i/ "Düzeni Sıfırlarken… (I)")nde sosyalistleri eleştiren Mises’ten bahsetmiştik. Mises’e (1935, s. 89) göre  Dolayısıyla sosyalizm  demektir (Mises, 1998, s. 260). Dahası, özel mülkiyetin olmadığı bir sistemde ne kaynakların etkin kullanımı için bir teşvik mekanizması, ne de bunun temelini oluşturan kâr-zarar güdüsü vardır. Bu da kaynakların israf edilmesi anlamına gelecektir. Bu nedenle Mises’e göre sosyalizm “akılcı bir ekonominin ortadan kaldırılması” demektir. Ama aynı Mises şunları da yazıyor:  
