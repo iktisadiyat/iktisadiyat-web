@@ -23,8 +23,7 @@ const Layout = ({ location, children }) => {
       <div className="global-wrapper">
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          <a href="https://www.gatsbyjs.com"> Gatsby</a>
+          © {new Date().getFullYear()}, İktisadiyat
         </footer>
       </div>
     </div>

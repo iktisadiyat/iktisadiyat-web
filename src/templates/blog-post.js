@@ -11,6 +11,9 @@ const BlogPostTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
 
+  // Format the date using toLocaleDateString
+  const formattedDate = new Date(post.frontmatter.date).toLocaleDateString('en-GB')
+
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -20,7 +23,7 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{formattedDate}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -89,7 +92,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
         description
       }
     }
