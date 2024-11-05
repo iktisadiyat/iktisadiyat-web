@@ -1,18 +1,14 @@
-import * as React from "react"
-import { Link, graphql } from "gatsby"
-
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import * as React from "react";
+import { Link, graphql } from "gatsby";
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import Seo from "../components/seo";
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
 }) => {
-  const siteTitle = site.siteMetadata?.title || `Title`
-
-  // Format the date using toLocaleDateString
-  const formattedDate = new Date(post.frontmatter.date).toLocaleDateString('en-GB')
+  const siteTitle = site.siteMetadata?.title || `Title`;
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -23,8 +19,35 @@ const BlogPostTemplate = ({
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{formattedDate}</p>
+          <p>{post.frontmatter.date}</p>
+          
+          {/* Display author and categories */}
+          <div className="post-meta">
+  {post.frontmatter.author && (
+    <span><strong>Yazar:</strong> {post.frontmatter.author}</span>
+  )}
+  {post.frontmatter.categories && post.frontmatter.categories.length > 0 && (
+    <span> | <strong>Kategoriler:</strong> {post.frontmatter.categories.join(', ')}</span>
+  )}
+</div>
         </header>
+
+        {/* Smaller thumbnail image */}
+        {post.frontmatter.thumbnail && (
+          <img
+            src={post.frontmatter.thumbnail}
+            alt={post.frontmatter.title}
+            style={{
+              width: '50%', // Adjusted for a smaller display
+              maxWidth: '300px', // Restrict maximum size
+              display: 'block',
+              margin: '0 auto 1.5rem',
+              borderRadius: '8px',
+              boxShadow: '0 2px 10px rgba(0, 0, 0, 0.1)',
+            }}
+          />
+        )}
+
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
@@ -61,8 +84,8 @@ const BlogPostTemplate = ({
         </ul>
       </nav>
     </Layout>
-  )
-}
+  );
+};
 
 export const Head = ({ data: { markdownRemark: post } }) => {
   return (
@@ -70,10 +93,10 @@ export const Head = ({ data: { markdownRemark: post } }) => {
       title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
     />
-  )
-}
+  );
+};
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 
 export const pageQuery = graphql`
   query BlogPostBySlug(
@@ -92,8 +115,10 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date
-        description
+        date(formatString: "MMMM DD, YYYY")
+        thumbnail
+        categories
+        author
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
@@ -113,4 +138,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
