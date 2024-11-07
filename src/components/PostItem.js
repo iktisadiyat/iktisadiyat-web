@@ -31,8 +31,10 @@ const PostItem = ({ post }) => {
             </header>
             <section class="post-meta-text">
               <p>
-                {post.excerpt}
                 <Link to={post.fields.slug} className="read-more-link">
+                <span class="description">
+                {post.excerpt}
+                </span>
                   Devamını oku
                 </Link>
               </p>
@@ -40,7 +42,9 @@ const PostItem = ({ post }) => {
           </div>
           {thumbnail && (
             <div className="post-thumbnail">
+                <Link to={post.fields.slug} itemProp="url">
               <img src={thumbnail} alt={title} />
+                </Link>
             </div>
           )}
         </div>

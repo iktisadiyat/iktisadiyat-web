@@ -39,8 +39,8 @@ const BlogPostTemplate = ({
             src={post.frontmatter.thumbnail}
             alt={post.frontmatter.title}
             style={{
-              width: '50%', // Adjusted for a smaller display
-              maxWidth: '300px', // Restrict maximum size
+              width: '40%', // Adjusted for a smaller display
+              maxWidth: '250px', // Restrict maximum size
               display: 'block',
               margin: '0 auto 1.5rem',
               borderRadius: '8px',
