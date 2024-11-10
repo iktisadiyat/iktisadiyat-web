@@ -59,5 +59,4 @@ const PostItem = ({ post }) => {
     </li>
   );
 };
-
 export default PostItem;

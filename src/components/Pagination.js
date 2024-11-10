@@ -10,7 +10,7 @@ const Pagination = ({ currentPage, numPages }) => {
       {/* Previous Page Link */}
       {currentPage > 1 && (
         <Link to={currentPage === 2 ? `/` : `/page/${currentPage - 1}`} className="pagination-link">
-          ← Bir önceki sayfa
+          ← Önceki sayfa
         </Link>
       )}
 
@@ -37,7 +37,7 @@ const Pagination = ({ currentPage, numPages }) => {
       {/* Next Page Link */}
       {currentPage < numPages && (
         <Link to={`/page/${currentPage + 1}`} className="pagination-link">
-          Bir sonraki sayfa →
+          Sonraki sayfa →
         </Link>
       )}
     </div>
