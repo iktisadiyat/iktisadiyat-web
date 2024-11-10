@@ -57,6 +57,12 @@ const BlogPostTemplate = ({
         </footer>
       </article>
       <nav className="blog-post-nav">
+                    {/* same but center */}
+                    <span style={{display: 'block', textAlign: 'center', margin: '1rem 0'}}>
+                      <Link to="/"> <h3>Ana sayfaya dön </h3> </Link>
+                    </span>
+            
+
         <ul
           style={{
             display: `flex`,
@@ -73,11 +79,8 @@ const BlogPostTemplate = ({
               </Link>
             )}
           </li>
-          <li> 
-            {/* return to main page  */}
-            <Link to="/"> <h3> Ana Sayfa'ya dön </h3></Link>
-            
-          </li>
+          
+
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
