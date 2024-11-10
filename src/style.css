@@ -275,3 +275,31 @@ footer a {
   color: var(--color-primary);
   text-decoration: underline;
 }
+
+
+
+/* Remove default styling from the link and center the image */
+.site-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+
+  .download-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px 20px;
+    max-width: 500px;
+    background-color: var(--color-primary);
+    color: var(--color-white) !important;
+    /* drop shadow */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }

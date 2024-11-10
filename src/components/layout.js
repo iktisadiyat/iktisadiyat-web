@@ -2,16 +2,27 @@
 import * as React from "react";
 import { Link } from "gatsby";
 import Menu from "./Menu";
-import '../styles/layout.css'; // Import the merged layout CSS
+import { StaticImage } from "gatsby-plugin-image";
+
+
 
 const Layout = ({ location, children }) => {
   return (
     <div>
       {/* Site title at the top */}
       <header className="global-header">
-        <h1 className="site-name">
-          <Link to="/">İktisadiyat</Link>
-        </h1>
+        <div className="site-name">
+          <Link to="/">
+          <StaticImage
+            src="../images/iktisadiyat_logo.png"
+            alt="İktisadiyat Logo"
+            placeholder="blurred"
+            layout="constrained"
+            width={250}
+            sizes="(max-width: 600px) 150px, 250px"
+          />
+          </Link>
+        </div>
       </header>
 
       {/* Fixed full-width menu */}

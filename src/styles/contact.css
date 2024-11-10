@@ -1,0 +1,31 @@
+/* src/styles/contact.css */
+
+.contact-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .contact-item {
+    display: flex;
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .contact-label {
+    font-weight: bold;
+    min-width: 120px;
+    color: #333;
+  }
+  
+  .contact-item a {
+    text-decoration: none;
+    word-break: break-word;
+  }
+  
+  .contact-item a:hover {
+    text-decoration: underline;
+  }

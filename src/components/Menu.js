@@ -6,6 +6,8 @@ const Menu = () => (
   <nav className="menu">
     <ul className="menu-list">
       <li><Link to="/">Yazılar</Link></li>
+      <li><Link to="/dergi">Dergi</Link></li>
+      <li><Link to="/authors">Yazarlar</Link></li>
       <li><Link to="/contact">İletişim</Link></li>
     </ul>
   </nav>

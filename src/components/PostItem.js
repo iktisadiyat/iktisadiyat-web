@@ -21,12 +21,7 @@ const PostItem = ({ post }) => {
               </h2>
                <div className="post-meta-inline">
             <span> 
-            <span> <strong>Tarih:</strong> {formattedDate}</span> | <strong>Yazar:</strong> {author || 'Bilinmiyor'}</span> |
-            {categories && categories.length > 0 ? (
-              <span><strong> Kategoriler:</strong> {categories.join(', ')}</span>
-            ) : (
-              <span><strong> Kategoriler:</strong> Yok</span>
-            )}
+            <span> <strong>Tarih:</strong> {formattedDate}</span> | <strong>Yazar:</strong> {author || 'Bilinmiyor'}</span> 
           </div>
             </header>
             <section class="post-meta-text">
@@ -38,6 +33,13 @@ const PostItem = ({ post }) => {
                   Devamını oku
                 </Link>
               </p>
+            <div className="post-meta-inline">
+            {categories && categories.length > 0 ? (
+              <span><strong> Kategoriler:</strong> {categories.join(', ')}</span>
+            ) : (
+              <span><strong> Kategoriler:</strong> Yok</span>
+            )}
+            </div>
             </section>
           </div>
           {thumbnail && (
