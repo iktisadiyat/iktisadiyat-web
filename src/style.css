@@ -90,7 +90,7 @@ h2 {
 .menu-list li a {
   font-family: var(--font-secondary);
   color: var(--color-white);
-  font-weight: 40;
+  font-weight: 400;
   font-size: 1rem;
   text-decoration: none;
 }
