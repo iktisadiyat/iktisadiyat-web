@@ -11,6 +11,15 @@ const PostItem = ({ post }) => {
     <li className="post-list-item">
       <article className="post-article" itemScope itemType="http://schema.org/Article">
         <div className="post-card">
+          {/* Move the thumbnail outside of post-content for side-by-side layout */}
+          {thumbnail && (
+            <div className="post-thumbnail">
+              <Link to={post.fields.slug} itemProp="url">
+                <img src={thumbnail} alt={title} />
+              </Link>
+            </div>
+          )}
+
           <div className="post-content">
             <header>
               <h2>
@@ -24,15 +33,6 @@ const PostItem = ({ post }) => {
                 </span>
               </div>
             </header>
-
-            {/* Move thumbnail here for correct order */}
-            {thumbnail && (
-              <div className="post-thumbnail">
-                <Link to={post.fields.slug} itemProp="url">
-                  <img src={thumbnail} alt={title} />
-                </Link>
-              </div>
-            )}
 
             <section className="post-meta-text">
               <p>
@@ -59,4 +59,5 @@ const PostItem = ({ post }) => {
     </li>
   );
 };
+
 export default PostItem;
