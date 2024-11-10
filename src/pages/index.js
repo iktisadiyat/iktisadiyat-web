@@ -42,7 +42,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { frontmatter: { date: DESC } }
-      limit: 5
+      limit: 10
     ) {
       nodes {
         excerpt(pruneLength: 400)

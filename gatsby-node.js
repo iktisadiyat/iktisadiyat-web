@@ -1,7 +1,7 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
-const itemsPerPage = 5;
+const itemsPerPage = 10;
 const blogPostTemplate = path.resolve(`./src/templates/blog-post.js`);
 const blogListTemplate = path.resolve(`./src/templates/blog-list.js`);
 
