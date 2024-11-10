@@ -11,7 +11,7 @@ const BlogList = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <Seo title={`All posts - Page ${currentPage}`} />
+      <Seo title={`Yazılar - Sayfa ${currentPage}`} />
       <Pagination currentPage={currentPage} numPages={numPages} />
       <PostList posts={posts} />
       {/* Pagination Component */}

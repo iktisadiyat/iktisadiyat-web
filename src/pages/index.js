@@ -21,7 +21,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts / Tüm Yazılar" />
+      <Seo title="Tüm Yazılar" />
       <h1 style={{ textAlign: "center" }}> Yazılar </h1>
       <PostList posts={posts} />
       <Pagination currentPage={currentPage} numPages={numPages} />
@@ -31,7 +31,7 @@ const BlogIndex = ({ data, location }) => {
 
 export default BlogIndex;
 
-export const Head = () => <Seo title="All posts" />;
+export const Head = () => <Seo title="Yazılar" />;
 
 export const pageQuery = graphql`
   query mainIndexQuery {
