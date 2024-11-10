@@ -7,6 +7,7 @@ const AuthorsPage = ({ location }) => (
 
     {/* List of Writers */}
     <div className="authors-list">
+    <br></br>
       <h2>Çınla Akdere</h2>
       <p>
         Ankara Üniversitesi Siyasal Bilgiler Fakültesi İktisat Bölümünden lisans, Paris I Panthéon-Sorbonne üniversitesinden, iktisadi düşünce tarihi alanında master ve doktora derecesini aldı. New School for Social Research’ün İktisat Bölümünde ziyaretçi araştırmacı olarak bulundu. Fransa’da farklı üniversitelerde iktisat dersleri verdi. 2003 yılından bu yana P.H.A.R.E. araştırma enstitüsüne bağlı araştırmacı ve 2010 yılından itibaren de O.D.T.Ü. İktisat bölümünde öğretim görevlisidir.
