@@ -1,16 +1,36 @@
 const path = require(`path`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
-const blogPost = path.resolve(`./src/templates/blog-post.js`);
-const itemsPerPage = 5; // Change this value to adjust the number of posts per page
+const itemsPerPage = 5;
+const blogPostTemplate = path.resolve(`./src/templates/blog-post.js`);
+const blogListTemplate = path.resolve(`./src/templates/blog-list.js`);
 
 /**
- * Create pages for each blog post and paginate the index page.
+ * Add slug field to Markdown nodes.
+ */
+exports.onCreateNode = ({ node, actions, getNode }) => {
+  const { createNodeField } = actions;
+
+  if (node.internal.type === `MarkdownRemark`) {
+    // Generate the slug based on the file path
+    const slug = createFilePath({ node, getNode, basePath: `content/blog`, trailingSlash: false });
+
+    // Add the slug field to the node
+    createNodeField({
+      node,
+      name: `slug`,
+      value: slug,
+    });
+  }
+};
+
+/**
+ * Create paginated index pages and individual blog post pages.
  */
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
 
-  // Fetch all Markdown nodes
+  // Fetch all Markdown nodes with their slugs
   const result = await graphql(`
     {
       allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
@@ -18,9 +38,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id
           fields {
             slug
-          }
-          frontmatter {
-            title
           }
         }
       }
@@ -33,9 +50,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   }
 
   const posts = result.data.allMarkdownRemark.nodes;
-  const numPages = Math.ceil(posts.length / itemsPerPage);
+  const totalPosts = posts.length;
+  const numPages = Math.ceil(totalPosts / itemsPerPage);
 
-  // Create the main index page (page 1)
+  // 1. Create the main index page (`/`)
   createPage({
     path: `/`,
     component: require.resolve(`./src/pages/index.js`),
@@ -47,87 +65,53 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     },
   });
 
-  // Create paginated index pages (page 2 and beyond)
-  Array.from({ length: numPages - 1 }).forEach((_, i) => {
+  // 2. Create paginated index pages (`/page/2/`, `/page/3/`, etc.)
+  for (let i = 0; i < numPages; i++) {
+    const currentPage = i + 1;
+    const pagePath = currentPage === 1 ? `/` : `/page/${currentPage}`;
+
     createPage({
-      path: `/page/${i + 2}`,
-      component: require.resolve(`./src/pages/index.js`),
+      path: pagePath,
+      component: blogListTemplate,
       context: {
         limit: itemsPerPage,
-        skip: (i + 1) * itemsPerPage,
+        skip: i * itemsPerPage,
         numPages,
-        currentPage: i + 2,
+        currentPage,
       },
     });
+  }
+
+  // 3. Create individual blog post pages
+  // Create individual blog post pages with correct previous and next post links
+posts.forEach((post, index) => {
+  const previousPost = index === 0 ? null : posts[index - 1];
+  const nextPost = index === posts.length - 1 ? null : posts[index + 1];
+
+  createPage({
+    path: post.fields.slug,
+    component: blogPostTemplate,
+    context: {
+      id: post.id,
+      slug: post.fields.slug,
+      previousPostId: previousPost ? previousPost.id : null,
+      nextPostId: nextPost ? nextPost.id : null,
+    },
   });
 
-  // Create individual blog post pages
-  if (posts.length > 0) {
-    posts.forEach((post, index) => {
-      const previousPostId = index === 0 ? null : posts[index - 1].id;
-      const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id;
-
-      createPage({
-        path: post.fields.slug,
-        component: blogPost,
-        context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
-        },
-      });
-    });
-  }
+  console.log(`Created blog post page: ${post.fields.slug} (prev: ${previousPost?.fields?.slug}, next: ${nextPost?.fields?.slug})`);
+});
 };
 
 /**
- * Add custom fields to Markdown nodes.
- */
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
-
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
-
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    });
-  }
-};
-
-/**
- * Customize GraphQL schema.
+ * Customize the GraphQL schema to include the slug field in MarkdownRemark nodes.
  */
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions;
 
   createTypes(`
-    type SiteSiteMetadata {
-      author: Author
-      siteUrl: String
-      social: Social
-    }
-
-    type Author {
-      name: String
-      summary: String
-    }
-
-    type Social {
-      twitter: String
-    }
-
     type MarkdownRemark implements Node {
-      frontmatter: Frontmatter
       fields: Fields
-    }
-
-    type Frontmatter {
-      title: String
-      description: String
-      date: Date @dateformat
     }
 
     type Fields {

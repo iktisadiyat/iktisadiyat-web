@@ -24,10 +24,10 @@ const PostItem = ({ post }) => {
             <span> <strong>Tarih:</strong> {formattedDate}</span> | <strong>Yazar:</strong> {author || 'Bilinmiyor'}</span> 
           </div>
             </header>
-            <section class="post-meta-text">
+            <section className="post-meta-text">
               <p>
                 <Link to={post.fields.slug} className="read-more-link">
-                <span class="description">
+                <span className="description">
                 {post.excerpt}
                 </span>
                   Devamını oku

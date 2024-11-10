@@ -1,44 +1,43 @@
-import React from "react";
-import { graphql, Link } from "gatsby";
+import * as React from "react";
+import { graphql } from "gatsby";
+import Layout from "../components/layout";
+import Seo from "../components/seo";
+import PostList from "../components/PostList";
+import Pagination from "../components/Pagination";
 
 const BlogList = ({ data, pageContext }) => {
   const posts = data.allMarkdownRemark.nodes;
   const { currentPage, numPages } = pageContext;
-  const isFirst = currentPage === 1;
-  const isLast = currentPage === numPages;
-  const prevPage = currentPage - 1 === 1 ? "/" : `/page/${currentPage - 1}`;
-  const nextPage = `/page/${currentPage + 1}`;
 
   return (
-    <div>
-      <h1>Blog Posts</h1>
-      <ul>
-        {posts.map((post) => (
-          <li key={post.fields.slug}>
-            <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
-          </li>
-        ))}
-      </ul>
-
-      <div>
-        {!isFirst && <Link to={prevPage}>Previous</Link>}
-        {!isLast && <Link to={nextPage}>Next</Link>}
-      </div>
-    </div>
+    <Layout>
+      <Seo title={`All posts - Page ${currentPage}`} />
+      <Pagination currentPage={currentPage} numPages={numPages} />
+      <PostList posts={posts} />
+      {/* Pagination Component */}
+      <Pagination currentPage={currentPage} numPages={numPages} />
+    </Layout>
   );
 };
 
 export default BlogList;
 
 export const pageQuery = graphql`
-  query blogListQuery($skip: Int!, $limit: Int!) {
-    allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: $limit, skip: $skip) {
+  query BlogListQuery($skip: Int!, $limit: Int!) {
+    allMarkdownRemark(
+      sort: { frontmatter: { date: DESC } }
+      limit: $limit
+      skip: $skip
+    ) {
       nodes {
+        excerpt(pruneLength: 400)
         fields {
           slug
         }
         frontmatter {
+          date(formatString: "MMMM DD, YYYY")
           title
+          thumbnail
         }
       }
     }
