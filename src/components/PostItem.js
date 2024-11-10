@@ -5,7 +5,6 @@ import { Link } from 'gatsby';
 const PostItem = ({ post }) => {
   const title = post.frontmatter.title || post.fields.slug;
   const formattedDate = new Date(post.frontmatter.date).toLocaleDateString('en-GB');
-  
   const { thumbnail, author, categories } = post.frontmatter;
 
   return (
@@ -19,36 +18,42 @@ const PostItem = ({ post }) => {
                   <span itemProp="headline">{title}</span>
                 </Link>
               </h2>
-               <div className="post-meta-inline">
-            <span> 
-            <span> <strong>Tarih:</strong> {formattedDate}</span> | <strong>Yazar:</strong> {author || 'Bilinmiyor'}</span> 
-          </div>
+              <div className="post-meta-inline">
+                <span>
+                  <strong>Tarih:</strong> {formattedDate} | <strong>Yazar:</strong> {author || 'Bilinmiyor'}
+                </span>
+              </div>
             </header>
+
+            {/* Move thumbnail here for correct order */}
+            {thumbnail && (
+              <div className="post-thumbnail">
+                <Link to={post.fields.slug} itemProp="url">
+                  <img src={thumbnail} alt={title} />
+                </Link>
+              </div>
+            )}
+
             <section className="post-meta-text">
               <p>
                 <Link to={post.fields.slug} className="read-more-link">
-                <span className="description">
-                {post.excerpt}
-                </span>
+                  <span className="description">{post.excerpt}</span>
                   Devamını oku
                 </Link>
               </p>
-            <div className="post-meta-inline">
-            {categories && categories.length > 0 ? (
-              <span><strong> Kategoriler:</strong> {categories.join(', ')}</span>
-            ) : (
-              <span><strong> Kategoriler:</strong> Yok</span>
-            )}
-            </div>
+              <div className="post-meta-inline">
+                {categories && categories.length > 0 ? (
+                  <span>
+                    <strong>Kategoriler:</strong> {categories.join(', ')}
+                  </span>
+                ) : (
+                  <span>
+                    <strong>Kategoriler:</strong> Yok
+                  </span>
+                )}
+              </div>
             </section>
           </div>
-          {thumbnail && (
-            <div className="post-thumbnail">
-                <Link to={post.fields.slug} itemProp="url">
-              <img src={thumbnail} alt={title} />
-                </Link>
-            </div>
-          )}
         </div>
       </article>
     </li>
