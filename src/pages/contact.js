@@ -9,10 +9,6 @@ const ContactPage = ({ location }) => (
     <p>Bizimle iletişime geçmek için aşağıdaki kanalları kullanabilirsiniz:</p>
     <div className="contact-list">
       <div className="contact-item">
-        <span className="contact-label">Email:</span>
-        <a href="mailto:bilgi@iktisadiyat.com">bilgi@iktisadiyat.com</a>
-      </div>
-      <div className="contact-item">
         <span className="contact-label">X (Twitter):</span>
         <a
           href="https://x.com/iktisadiyat"
